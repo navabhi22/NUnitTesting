@@ -6,7 +6,7 @@ namespace NUnitTesting
     {
         static void Main(string[] args)
         {
-            TempConversion.TemperatureConversion();
+            MonthlyPayment.CalculateMonthlyPayment();
 
         }
     }
